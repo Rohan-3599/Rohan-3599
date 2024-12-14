@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️.
+I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development and Machine Learning 🕸️.
 
 More about me :
-- 🔭 I’m currently working on Node.js, Express.js, React js, MongoDB, etc 💻
-- 🌱 I’m currently learning Android 
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN  Stack
-- 💬 I have worked on Java, Python, HTML/CSS, Javascript, ReactJs, NodeJs, ExpressJs, Php, MySQL, MongoDB, Git etc.
+- 🔭 I’m currently working on Node.js, Express.js, React js, MongoDB, Keras, Pytorch, TensorFlow 💻
+- 💬 I have worked on Core Java,Hybris,SpringBoot, Python, HTML/CSS, Javascript, ReactJs, NodeJs, ExpressJs, Php, MySQL, MongoDB, Keras, TensorFlow, Pytorch.
 - 📫 How to reach me: rohansinha3599@gmail.com 
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire me 👨‍💻
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣
 
 
 <br/>
